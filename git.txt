@@ -1,0 +1,12 @@
+- Git giúp ghép code trong dự án 1 cách an toàn, nhanh gọn
+- Quản lí lịch sử
+
+git init : khởi tạo git local
+git add . : thêm toàn bộ file trong working space vào stage area
+git commit -m "Ghi chú" : chuyển file từ stage area vào git local 
+git checkout id commit : thay đổi version file trong working space dựa vào id commit
+
+git push origin master : đẩy file từ git local lên trên repo remote (gitHub hoặc gitLab)
+
+git clone : tạo 1 bản sao từ repo remote về máy
+git pull origin master : kéo dữ liệu từ repo remote về máy
