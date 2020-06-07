@@ -11,10 +11,4 @@ git push origin master : đẩy file từ git local lên trên repo remote (gitH
 git clone : tạo 1 bản sao từ repo remote về máy
 git pull origin master : kéo dữ liệu từ repo remote về máy
 
-<<<<<<< HEAD
-Cho thêm user vào repo : settings -> manager access
-
-test 2
-=======
 Cho thêm user vào repo : settings -> manager access.
->>>>>>> 92bda8d6c2992e5bbcf4c9aba2b1316ac69914b5
