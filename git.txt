@@ -12,3 +12,5 @@ git clone : tạo 1 bản sao từ repo remote về máy
 git pull origin master : kéo dữ liệu từ repo remote về máy
 
 Cho thêm user vào repo : settings -> manager access
+
+test 2
